@@ -1,4 +1,4 @@
-use holium_rust_sdk::*;
+use holium_rs_sdk::*;
 
 #[holium_bindgen]
 pub struct SalesDetails {
