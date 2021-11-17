@@ -1,0 +1,10 @@
+[package]
+name = "avocado_operation"
+version = "1.0.0-alpha"
+edition = "2018"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+holium-rs-sdk = "1.0.0"
