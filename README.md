@@ -5,13 +5,13 @@
 
 [![maintainer](https://img.shields.io/badge/maintainer-Polyphene-blue)](https://twitter.com/polyphenehq/)
 [![Discord](https://img.shields.io/discord/882061839347908678.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/A3t5ZFSbCG)
-[![license](https://badgen.net/github/license/polyphene/holium-rs-sdk)](https://raw.githubusercontent.com/polyphene/holium-rs-sdk/main/LICENSE)
+[![license](https://badgen.net/github/license/polyphene/getting-started)](https://raw.githubusercontent.com/polyphene/getting-started/main/LICENSE)
 
 > In this repository you can find all necessary assets for the Holium CLI tutorial
 
 ### 🏠 [Homepage](https://polyphene.io)
 
-The tutorial that references this repostory can be found on our [documentation website](https://docs.holium.org/get-started).
+The tutorial that references this repository can be found on our [documentation website](https://docs.holium.org/get-started).
 
 ### 🗂 Content
 
@@ -36,8 +36,8 @@ Give a ⭐️ if this project helped you and use the official badge to link to t
 
 ### 📝 License
 
-This project is [MIT](https://raw.githubusercontent.com/polyphene/holium-rs-sdk/main/LICENSE) licensed.
+This project is [MIT](https://raw.githubusercontent.com/polyphene/getting-started/main/LICENSE) licensed.
 
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+_This README was generated with ❤️by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
