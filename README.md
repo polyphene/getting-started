@@ -38,6 +38,9 @@ Give a ⭐️ if this project helped you and use the official badge to link to t
 
 This project is [MIT](https://raw.githubusercontent.com/polyphene/getting-started/main/LICENSE) licensed.
 
+Assets from Kaggle are used with their own
+[ODbL](https://raw.githubusercontent.com/polyphene/getting-started/main/assets/sources/LICENSE) license.
+
 
 ***
 _This README was generated with ❤️by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
