@@ -11,7 +11,7 @@
 
 ### 🏠 [Homepage](https://polyphene.io)
 
-The tutorial that references this repository can be found on our [documentation website](https://docs.holium.org/get-started).
+The tutorial that references this repository can be found on our [documentation website](https://docs.holium.org).
 
 ### 🗂 Content
 
