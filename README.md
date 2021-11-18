@@ -21,7 +21,6 @@ The project is divided in 2 main parts.
 
 Contains necessary assets to go along the tutorial example:
 - `sources` contains data sources tht will be used in the tutorial.
-- `wasm` contains the compiled bytecode of the wasm module that we are running in the tutorial.
 
 #### Module
 
