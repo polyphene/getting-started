@@ -19,8 +19,7 @@ The project is divided in 2 main parts.
 
 #### Assets
 
-Contains necessary assets to go along the tutorial example:
-- `sources` contains data sources tht will be used in the tutorial.
+Contains necessary assets like data sources that go along the tutorial.
 
 #### Module
 
